@@ -12,7 +12,12 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 
     (i) Using IQR detect weight outliers and print them
 
-    (ii) Using IQR, detect height outliers and print them
+    (ii) Using IQR, detect height outliers and print them[
+## DATE:
+
+GITHUB LINK:https://github.com/Hariharan5354/Ex02-Outlier.git
+
+COLAB LINK:https://colab.research.google.com/drive/1VApJAOQNJvyRd1-4af4xPfI8i_1bMiPi?usp=sharing
 # Explanation
 
 An Outlier is an observation in a given dataset that lies far from the rest of the observations. That means an outlier is vastly larger or smaller than the remaining values in the set. An outlier is an observation of a data point that lies an abnormal distance from other values in a given population. (odd man out).Outliers badly affect mean and standard deviation of the dataset. These may statistically give erroneous results.Most machine learning algorithms do not work well in the presence of outlier. So it is desirable to detect and remove outliers.Outliers are highly useful in anomaly detection like fraud detection where the fraud transactions are very different from normal transactions.
